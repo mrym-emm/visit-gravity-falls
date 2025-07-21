@@ -7,5 +7,5 @@ A one-page website promoting one of the most intriguing place ever existed, Grav
 
 
 ## 🛠 TechStack
-Javascript, HTML, CSS
+HTML, CSS
 
